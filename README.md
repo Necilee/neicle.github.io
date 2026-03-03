@@ -1,7 +1,7 @@
-# 🌐 Neicle Portfolio
+# 🌐 Necilee Portfolio
 
 Ovo je moj lični portfolio sajt, hostovan preko **GitHub Pages** na adresi:  
-👉 [https://neicle.github.io](https://neicle.github.io)
+👉 [https://necilee.github.io](https://necilee.github.io)
 
 ## 📌 O sajtu
 Stranica prikazuje:
